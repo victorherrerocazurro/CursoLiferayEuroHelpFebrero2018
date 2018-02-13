@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<custom-sql>
+    <sql id="com.liferay.docs.guestbook.service.persistence.GuestbookFinder.buscarPorNombre">
+		<![CDATA[
+		        SELECT GB_Guestbook.*
+		        FROM GB_Guestbook
+		        WHERE
+		            GB_Guestbook.name LIKE ?
+		]]>
+    </sql>
+</custom-sql>

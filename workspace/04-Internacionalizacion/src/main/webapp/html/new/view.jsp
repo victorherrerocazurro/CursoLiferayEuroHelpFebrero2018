@@ -1,3 +1,4 @@
+<%@page import="javax.servlet.jsp.jstl.fmt.LocalizationContext"%>
 <%@ taglib uri="http://java.sun.com/portlet_2_0" prefix="portlet" %>
 <%@ taglib uri="http://liferay.com/tld/ui" prefix="liferay-ui" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt" %>
@@ -13,9 +14,9 @@ This is the <b>New</b> portlet in View mode.
 ${requestScope.saludo}
 
 
-<%-- <fmt:message bundle="<%=portletConfig.getResourceBundle(request.getLocale())--%>"	key="saludo"> --%>
-<%-- 	<fmt:param value="Antonio"></fmt:param> --%>
-<%-- </fmt:message> --%>
+<fmt:message bundle="<%=new LocalizationContext(portletConfig.getResourceBundle(request.getLocale()))%>" key="saludo">
+ 	<fmt:param value="Antonio"></fmt:param>
+</fmt:message>
 
 <liferay-ui:message key="titulo" />
 

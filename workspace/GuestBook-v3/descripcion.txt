@@ -1,0 +1,7 @@
+Aplcar niveles de seguridad a la aplicacion, la idea es:
+
+El Boton "Add Guestbook" solo este disponible para los "administrators".
+
+Las pestañas de "Guestbook" puedan ser accedidas segun los permisos asociados por los "administrators"
+
+El boton de "Add Entry" este disponible solo para los "site members".

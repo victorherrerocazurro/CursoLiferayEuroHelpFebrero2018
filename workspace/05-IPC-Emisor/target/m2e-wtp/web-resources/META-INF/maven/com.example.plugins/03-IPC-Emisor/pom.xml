@@ -95,14 +95,14 @@
 	</dependencies>
 	<profiles>
 		<profile>
-			<id>Liferay-v6.2-CE-(Tomcat-7)</id>
+			<id>Liferay-v6.2-(Tomcat-7)</id>
 			<properties>
-				<liferay.version>6.2.1</liferay.version>
-				<liferay.maven.plugin.version>6.2.10.6</liferay.maven.plugin.version>
-				<liferay.auto.deploy.dir>D:\Servidores\liferay-portal-6.2-ce-ga2\deploy</liferay.auto.deploy.dir>
-				<liferay.app.server.deploy.dir>D:\Servidores\liferay-portal-6.2-ce-ga2\tomcat-7.0.42\webapps</liferay.app.server.deploy.dir>
-				<liferay.app.server.lib.global.dir>D:\Servidores\liferay-portal-6.2-ce-ga2\tomcat-7.0.42\lib\ext</liferay.app.server.lib.global.dir>
-				<liferay.app.server.portal.dir>D:\Servidores\liferay-portal-6.2-ce-ga2\tomcat-7.0.42\webapps\ROOT</liferay.app.server.portal.dir>
+				<liferay.version>6.2.5</liferay.version>
+				<liferay.maven.plugin.version>6.2.5</liferay.maven.plugin.version>
+				<liferay.auto.deploy.dir>C:\Users\alu01\Downloads\liferay-portal-6.2-ce-ga6\deploy</liferay.auto.deploy.dir>
+				<liferay.app.server.deploy.dir>C:\Users\alu01\Downloads\liferay-portal-6.2-ce-ga6\tomcat-7.0.62\webapps</liferay.app.server.deploy.dir>
+				<liferay.app.server.lib.global.dir>C:\Users\alu01\Downloads\liferay-portal-6.2-ce-ga6\tomcat-7.0.62\lib\ext</liferay.app.server.lib.global.dir>
+				<liferay.app.server.portal.dir>C:\Users\alu01\Downloads\liferay-portal-6.2-ce-ga6\tomcat-7.0.62\webapps\ROOT</liferay.app.server.portal.dir>
 			</properties>
 		</profile>
 	</profiles>
