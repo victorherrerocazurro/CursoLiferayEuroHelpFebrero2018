@@ -7248,3 +7248,205 @@ java.io.FileNotFoundException: C:\Users\alu01\.m2\repository\com\example\plugins
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 09:44:41.768
 !MESSAGE The POM for com.liferay.portal:util-java:jar:${liferay.version} is missing, no dependency information available
+!SESSION 2018-02-15 10:07:22.239 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 2 0 2018-02-15 10:07:27.385
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2018-02-15 10:07:27.385
+!MESSAGE Cannot bind to an undefined command: plug-in='com.liferay.ide.project.ui', id='com.liferay.ide.project.ui.upgrade.openLiferay7UpgradeAssistant'
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2018-02-15 10:07:39.725
+!MESSAGE starting IvyDE plugin
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2018-02-15 10:07:39.787
+!MESSAGE IvyDE plugin started
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-02-15 10:07:48.819
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\alu01'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:16.967
+!MESSAGE The POM for com.liferay.portal:portal-service:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:16.972
+!MESSAGE The POM for com.liferay.portal:util-bridges:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:16.974
+!MESSAGE The POM for com.liferay.portal:util-taglib:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:16.977
+!MESSAGE The POM for com.liferay.portal:util-java:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:17.139
+!MESSAGE The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:31.791
+!MESSAGE The POM for com.liferay.portal:portal-service:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:31.794
+!MESSAGE The POM for com.liferay.portal:util-bridges:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:31.798
+!MESSAGE The POM for com.liferay.portal:util-taglib:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:31.800
+!MESSAGE The POM for com.liferay.portal:util-java:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:31.903
+!MESSAGE The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:31.905
+!MESSAGE Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Failure to find com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:31.936
+!MESSAGE The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:31.938
+!MESSAGE Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Failure to find com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:31.943
+!MESSAGE The POM for com.liferay.portal:portal-service:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:31.945
+!MESSAGE The POM for com.liferay.portal:util-bridges:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:31.947
+!MESSAGE The POM for com.liferay.portal:util-taglib:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:31.950
+!MESSAGE The POM for com.liferay.portal:util-java:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:31.969
+!MESSAGE The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:33.703
+!MESSAGE The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:33.707
+!MESSAGE Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Failure to find com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:33.710
+!MESSAGE The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:33.712
+!MESSAGE Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Failure to find com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:33.717
+!MESSAGE The POM for com.liferay.portal:portal-service:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:33.721
+!MESSAGE The POM for com.liferay.portal:util-bridges:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:33.724
+!MESSAGE The POM for com.liferay.portal:util-taglib:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:33.728
+!MESSAGE The POM for com.liferay.portal:util-java:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:38.233
+!MESSAGE CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:08:38.236
+!MESSAGE CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:15.372
+!MESSAGE The POM for com.liferay.portal:portal-service:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:15.390
+!MESSAGE The POM for com.liferay.portal:util-bridges:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:15.394
+!MESSAGE The POM for com.liferay.portal:util-taglib:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:15.399
+!MESSAGE The POM for com.liferay.portal:util-java:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:20.630
+!MESSAGE The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:45.723
+!MESSAGE The POM for com.liferay.portal:portal-service:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:45.727
+!MESSAGE The POM for com.liferay.portal:util-bridges:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:45.730
+!MESSAGE The POM for com.liferay.portal:util-taglib:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:45.734
+!MESSAGE The POM for com.liferay.portal:util-java:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:45.787
+!MESSAGE The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:45.789
+!MESSAGE Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Failure to find com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:45.796
+!MESSAGE The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:45.799
+!MESSAGE Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Failure to find com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:45.805
+!MESSAGE The POM for com.liferay.portal:portal-service:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:45.807
+!MESSAGE The POM for com.liferay.portal:util-bridges:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:45.809
+!MESSAGE The POM for com.liferay.portal:util-taglib:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:45.812
+!MESSAGE The POM for com.liferay.portal:util-java:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:45.829
+!MESSAGE The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:46.208
+!MESSAGE The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:46.210
+!MESSAGE Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} has not been downloaded from it before.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:46.212
+!MESSAGE The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:46.213
+!MESSAGE Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} has not been downloaded from it before.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:46.234
+!MESSAGE The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:55.068
+!MESSAGE The POM for com.liferay.portal:portal-service:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:55.087
+!MESSAGE The POM for com.liferay.portal:util-bridges:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:55.114
+!MESSAGE The POM for com.liferay.portal:util-taglib:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:55.120
+!MESSAGE The POM for com.liferay.portal:util-java:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:59.920
+!MESSAGE The POM for com.liferay.portal:portal-service:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:59.922
+!MESSAGE The POM for com.liferay.portal:util-bridges:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:59.924
+!MESSAGE The POM for com.liferay.portal:util-taglib:jar:${liferay.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-02-15 10:09:59.927
+!MESSAGE The POM for com.liferay.portal:util-java:jar:${liferay.version} is missing, no dependency information available

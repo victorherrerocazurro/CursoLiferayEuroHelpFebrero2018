@@ -1,9 +1,0 @@
-<%@ taglib uri="http://java.sun.com/portlet_2_0" prefix="portlet" %>
-
-<portlet:defineObjects />
-
-<!-- Selector de subastas -->
-
-<portlet:renderURL var="pujarUrl">
-	<portlet:param name="mvcPath" value="/html/pujas/pujar.jsp"/>
-</portlet:renderURL>
