@@ -11,7 +11,8 @@
 
 	$theme.include($top_head_include)
 	
-	<script src="$javascript_folder/aui-alert.js" type="text/javascript"/>
+	<script src="$javascript_folder/aui-alert.js" type="text/javascript"></script>
+	
 </head>
 
 <body class="$css_class">

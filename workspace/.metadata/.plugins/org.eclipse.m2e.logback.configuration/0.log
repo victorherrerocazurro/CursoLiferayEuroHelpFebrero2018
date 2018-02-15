@@ -2604,3 +2604,42 @@ org.eclipse.jdt.core.JavaModelException: Could not set the project description f
 2018-02-15 10:38:44,338 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-02-15 10:38:44,340 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-02-15 10:38:44,340 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\16-TemaAvisoCookies\src\test\resources
+2018-02-15 11:08:29,690 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 11:08:29,787 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-15 11:08:29,789 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 11:08:29,790 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\16-TemaAvisoCookies\src\test\resources
+2018-02-15 11:11:06,512 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme group ID com.liferay.portal
+2018-02-15 11:11:06,512 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme artifact ID portal-web
+2018-02-15 11:11:06,513 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme version 6.2.5
+2018-02-15 11:11:06,513 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme ID _styled
+2018-02-15 11:11:09,301 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/templates to C:\CursoLiferay\workspace\16-TemaAvisoCookies\target\m2e-liferay\theme-resources\templates
+2018-02-15 11:11:10,601 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/css to C:\CursoLiferay\workspace\16-TemaAvisoCookies\target\m2e-liferay\theme-resources\css
+2018-02-15 11:11:19,017 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/images to C:\CursoLiferay\workspace\16-TemaAvisoCookies\target\m2e-liferay\theme-resources\images
+2018-02-15 11:11:19,223 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/js to C:\CursoLiferay\workspace\16-TemaAvisoCookies\target\m2e-liferay\theme-resources\js
+2018-02-15 11:11:19,449 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/css to C:\CursoLiferay\workspace\16-TemaAvisoCookies\target\m2e-liferay\theme-resources\css
+2018-02-15 11:11:19,488 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/images to C:\CursoLiferay\workspace\16-TemaAvisoCookies\target\m2e-liferay\theme-resources\images
+2018-02-15 11:11:21,220 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\CursoLiferay\workspace\16-TemaAvisoCookies\src\main\webapp\css to C:\CursoLiferay\workspace\16-TemaAvisoCookies\target\m2e-liferay\theme-resources\css
+2018-02-15 11:11:30,234 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\CursoLiferay\workspace\16-TemaAvisoCookies\src\main\webapp\images to C:\CursoLiferay\workspace\16-TemaAvisoCookies\target\m2e-liferay\theme-resources\images
+2018-02-15 11:11:30,892 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\CursoLiferay\workspace\16-TemaAvisoCookies\src\main\webapp\js to C:\CursoLiferay\workspace\16-TemaAvisoCookies\target\m2e-liferay\theme-resources\js
+2018-02-15 11:11:31,050 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\CursoLiferay\workspace\16-TemaAvisoCookies\src\main\webapp\templates to C:\CursoLiferay\workspace\16-TemaAvisoCookies\target\m2e-liferay\theme-resources\templates
+2018-02-15 11:11:33,314 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 11:11:33,315 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-15 11:11:33,317 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 11:11:33,317 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\16-TemaAvisoCookies\src\test\resources
+2018-02-15 11:13:34,827 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme group ID com.liferay.portal
+2018-02-15 11:13:34,828 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme artifact ID portal-web
+2018-02-15 11:13:34,828 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme version 6.2.5
+2018-02-15 11:13:34,828 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Parent theme ID _styled
+2018-02-15 11:13:35,016 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/templates to C:\CursoLiferay\workspace\16-TemaAvisoCookies\target\m2e-liferay\theme-resources\templates
+2018-02-15 11:13:35,561 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/css to C:\CursoLiferay\workspace\16-TemaAvisoCookies\target\m2e-liferay\theme-resources\css
+2018-02-15 11:13:37,028 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/images to C:\CursoLiferay\workspace\16-TemaAvisoCookies\target\m2e-liferay\theme-resources\images
+2018-02-15 11:13:37,032 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_unstyled/js to C:\CursoLiferay\workspace\16-TemaAvisoCookies\target\m2e-liferay\theme-resources\js
+2018-02-15 11:13:37,091 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/css to C:\CursoLiferay\workspace\16-TemaAvisoCookies\target\m2e-liferay\theme-resources\css
+2018-02-15 11:13:37,095 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying html/themes/_styled/images to C:\CursoLiferay\workspace\16-TemaAvisoCookies\target\m2e-liferay\theme-resources\images
+2018-02-15 11:13:37,662 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\CursoLiferay\workspace\16-TemaAvisoCookies\src\main\webapp\css to C:\CursoLiferay\workspace\16-TemaAvisoCookies\target\m2e-liferay\theme-resources\css
+2018-02-15 11:13:39,234 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\CursoLiferay\workspace\16-TemaAvisoCookies\src\main\webapp\images to C:\CursoLiferay\workspace\16-TemaAvisoCookies\target\m2e-liferay\theme-resources\images
+2018-02-15 11:13:39,239 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\CursoLiferay\workspace\16-TemaAvisoCookies\src\main\webapp\js to C:\CursoLiferay\workspace\16-TemaAvisoCookies\target\m2e-liferay\theme-resources\js
+2018-02-15 11:13:39,280 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying C:\CursoLiferay\workspace\16-TemaAvisoCookies\src\main\webapp\templates to C:\CursoLiferay\workspace\16-TemaAvisoCookies\target\m2e-liferay\theme-resources\templates
+2018-02-15 11:13:40,000 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 11:13:40,001 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-15 11:13:40,002 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
