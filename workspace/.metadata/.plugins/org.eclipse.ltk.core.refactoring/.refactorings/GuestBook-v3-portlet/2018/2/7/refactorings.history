@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;guestbook_actions.jsp&apos; to &apos;pujas&apos;&#x0D;&#x0A;- Original project: &apos;GuestBook-v3-portlet&apos;&#x0D;&#x0A;- Destination element: &apos;pujas&apos;&#x0D;&#x0A;- Original element: &apos;guestbook_actions.jsp&apos;" description="Copy file" element1="src/main/webapp/html/guestbook/guestbook_actions.jsp" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1518602405517" target="/Subastas-portlet/src/main/webapp/html/pujas" units="0" version="1.0"/>
-</session>

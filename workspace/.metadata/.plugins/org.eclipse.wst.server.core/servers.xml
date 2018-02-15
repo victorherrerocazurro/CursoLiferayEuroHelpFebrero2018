@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<servers>
-  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Liferay v6.2 Server (Tomcat 7) at localhost-config" hostname="localhost" id="Liferay v6.2 Server (Tomcat 7) at localhost" name="Liferay v6.2 Server (Tomcat 7) at localhost" runtime-id="Liferay v6.2 (Tomcat 7)" saveSeparateContextFiles="false" server-type="com.liferay.ide.eclipse.server.tomcat.7062" server-type-id="com.liferay.ide.eclipse.server.tomcat.7062" start-timeout="900" stop-timeout="300" testEnvironment="false" timestamp="7">
-    <list key="modules" value0="16-TemaAvisoCookies::org.eclipse.jst.j2ee.server:16-TemaAvisoCookies::jst.web::2.4"/>
-  </server>
-</servers>
