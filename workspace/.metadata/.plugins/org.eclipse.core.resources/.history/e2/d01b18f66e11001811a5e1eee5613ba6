@@ -1,0 +1,19 @@
+<%@page import="com.liferay.portal.kernel.util.WebKeys"%>
+<%@page import="com.liferay.portal.kernel.dao.search.ResultRow"%>
+<%@page import="com.subastas.model.Subasta"%>
+<%
+	ResultRow row = (ResultRow) request.getAttribute(WebKeys.SEARCH_CONTAINER_RESULT_ROW);
+
+	Subasta entry = (Subasta) row.getObject();
+%>
+
+<liferay-ui:icon-menu>
+		<!-- URL para acceder a la accion de edicion -->
+		<portlet:renderURL var="editURL">
+			<portlet:param name="subastaId" value="<%=String.valueOf(entry.getSubastaId())%>" />
+			<portlet:param name="mvcPath" value="/html/pujas/pujar.jsp"/>
+		</portlet:renderURL>
+
+		<liferay-ui:icon image="edit" message="Edit" url="<%=editURL.toString()%>" />
+
+</liferay-ui:icon-menu>

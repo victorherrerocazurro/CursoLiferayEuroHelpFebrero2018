@@ -1694,3 +1694,656 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact jstl:jstl:jar
 2018-02-13 10:52:36,085 [Worker-47] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of GuestBook-v3-portlet
 2018-02-13 10:52:36,085 [Worker-47] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for GuestBook-v3-portlet
 2018-02-13 10:52:36,090 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-13 12:18:28,827 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-13 12:18:29,317 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-13 12:18:29,319 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-13 12:18:29,320 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\GuestBook-v3\GuestBook-v3-portlet\src\test\resources
+2018-02-14 08:52:35,515 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-02-14 08:52:51,281 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2018-02-14 08:53:01,703 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 08:53:01,703 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\06-ServiceBuilder\06-ServiceBuilder-portlet-service\src\main\resources
+2018-02-14 08:53:01,719 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 08:53:01,719 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\06-ServiceBuilder\06-ServiceBuilder-portlet-service\src\test\resources
+2018-02-14 08:53:22,391 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 08:53:22,407 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-14 08:53:22,438 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 08:53:22,438 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\06-ServiceBuilder\06-ServiceBuilder-portlet\src\test\resources
+2018-02-14 09:15:20,635 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\CursoLiferay\workspace\Subastas\pom.xml
+2018-02-14 09:15:20,635 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info 'Subastas-portlet/pom.xml' C:\CursoLiferay\workspace\Subastas\Subastas-portlet\pom.xml
+2018-02-14 09:15:20,635 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info 'Subastas-portlet-service/pom.xml' C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\pom.xml
+2018-02-14 09:15:21,151 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.example.plugins:Subastas-portlet-service:jar:1.0.0-SNAPSHOT is missing, no dependency information available
+2018-02-14 09:15:21,151 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:portal-service:jar:${liferay.version} is missing, no dependency information available
+2018-02-14 09:15:21,151 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-bridges:jar:${liferay.version} is missing, no dependency information available
+2018-02-14 09:15:21,151 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-taglib:jar:${liferay.version} is missing, no dependency information available
+2018-02-14 09:15:21,166 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-java:jar:${liferay.version} is missing, no dependency information available
+2018-02-14 09:15:22,041 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.example.plugins:Subastas:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\Subastas\pom.xml.
+2018-02-14 09:15:23,151 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:Subastas-portlet:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\Subastas\Subastas-portlet\pom.xml.
+2018-02-14 09:15:23,541 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:Subastas-portlet-service:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\pom.xml.
+2018-02-14 09:15:23,713 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+2018-02-14 09:15:25,276 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Subastas-portlet-service/src/main/java
+2018-02-14 09:15:25,276 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Subastas-portlet-service/src/test/java
+2018-02-14 09:15:26,073 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Subastas-portlet/src/main/java
+2018-02-14 09:15:26,073 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Subastas-portlet/src/main/resources
+2018-02-14 09:15:26,088 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Subastas-portlet/src/test/java
+2018-02-14 09:15:28,682 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:portal-service:jar:${liferay.version} is missing, no dependency information available
+2018-02-14 09:15:28,682 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:15:28,682 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\src\main\resources
+2018-02-14 09:15:28,682 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:15:28,682 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\src\test\resources
+2018-02-14 09:15:28,745 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:portal-service:jar:${liferay.version} is missing, no dependency information available
+2018-02-14 09:15:28,745 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-bridges:jar:${liferay.version} is missing, no dependency information available
+2018-02-14 09:15:28,745 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-taglib:jar:${liferay.version} is missing, no dependency information available
+2018-02-14 09:15:28,760 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-java:jar:${liferay.version} is missing, no dependency information available
+2018-02-14 09:15:28,792 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:15:28,792 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-14 09:15:28,807 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:15:28,807 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 09:15:28,807 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Subastas-portlet
+2018-02-14 09:15:28,807 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Subastas-portlet
+2018-02-14 09:15:28,807 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+2018-02-14 09:15:28,807 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} has not been downloaded from it before.
+2018-02-14 09:15:28,807 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+2018-02-14 09:15:28,823 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} has not been downloaded from it before.
+2018-02-14 09:15:28,823 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+2018-02-14 09:15:28,839 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Failure to find com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+2018-02-14 09:15:28,839 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:15:28,870 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+2018-02-14 09:15:28,870 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+2018-02-14 09:15:28,901 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Failure to find com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+2018-02-14 09:15:28,917 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:portal-service:jar:${liferay.version} is missing, no dependency information available
+2018-02-14 09:15:28,917 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-bridges:jar:${liferay.version} is missing, no dependency information available
+2018-02-14 09:15:28,917 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-taglib:jar:${liferay.version} is missing, no dependency information available
+2018-02-14 09:15:28,917 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-java:jar:${liferay.version} is missing, no dependency information available
+2018-02-14 09:15:29,026 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 3 project(s) in 8 sec
+2018-02-14 09:15:30,057 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-02-14 09:15:30,417 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.example.plugins:Subastas:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\Subastas\pom.xml.
+2018-02-14 09:15:30,823 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:Subastas-portlet-service:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\pom.xml.
+2018-02-14 09:15:30,901 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:Subastas-portlet:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\Subastas\Subastas-portlet\pom.xml.
+2018-02-14 09:15:31,010 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:06-ServiceBuilder-portlet-service:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\06-ServiceBuilder\06-ServiceBuilder-portlet-service\pom.xml.
+2018-02-14 09:15:31,089 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:06-ServiceBuilder-portlet:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\06-ServiceBuilder\06-ServiceBuilder-portlet\pom.xml.
+2018-02-14 09:15:33,948 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2018-02-14 09:15:33,964 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-02-14 09:15:34,667 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:Subastas-portlet:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\Subastas\Subastas-portlet\pom.xml.
+2018-02-14 09:15:34,745 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:Subastas-portlet-service:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\pom.xml.
+2018-02-14 09:15:34,792 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:06-ServiceBuilder-portlet-service:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\06-ServiceBuilder\06-ServiceBuilder-portlet-service\pom.xml.
+2018-02-14 09:15:34,823 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:06-ServiceBuilder-portlet:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\06-ServiceBuilder\06-ServiceBuilder-portlet\pom.xml.
+2018-02-14 09:15:36,104 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Subastas-portlet/src/main/java
+2018-02-14 09:15:36,104 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Subastas-portlet/src/main/resources
+2018-02-14 09:15:36,120 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Subastas-portlet/src/test/java
+2018-02-14 09:15:36,558 [ModalContext] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Subastas-portlet
+2018-02-14 09:15:36,589 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2018-02-14 09:15:36,589 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-02-14 09:15:37,167 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:Subastas-portlet-service:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\pom.xml.
+2018-02-14 09:15:37,214 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:06-ServiceBuilder-portlet-service:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\06-ServiceBuilder\06-ServiceBuilder-portlet-service\pom.xml.
+2018-02-14 09:15:37,261 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:06-ServiceBuilder-portlet:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\06-ServiceBuilder\06-ServiceBuilder-portlet\pom.xml.
+2018-02-14 09:15:37,308 [ModalContext] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:Subastas-portlet:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\Subastas\Subastas-portlet\pom.xml.
+2018-02-14 09:15:38,292 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Subastas-portlet-service/src/main/java
+2018-02-14 09:15:38,292 [ModalContext] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Subastas-portlet-service/src/test/java
+2018-02-14 09:15:38,480 [ModalContext] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-02-14 09:15:38,667 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:15:38,667 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\06-ServiceBuilder\06-ServiceBuilder-portlet-service\src\main\resources
+2018-02-14 09:15:38,683 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:15:38,683 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\06-ServiceBuilder\06-ServiceBuilder-portlet-service\src\test\resources
+2018-02-14 09:15:38,792 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:15:38,792 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 09:15:38,792 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:15:38,792 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\06-ServiceBuilder\06-ServiceBuilder-portlet\src\test\resources
+2018-02-14 09:15:39,495 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:15:39,495 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\src\main\resources
+2018-02-14 09:15:39,495 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:15:39,495 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\src\test\resources
+2018-02-14 09:15:40,026 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:15:40,026 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-02-14 09:15:40,042 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:15:40,042 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 09:18:41,549 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:18:41,549 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 09:18:41,549 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:18:41,549 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 09:21:13,477 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:21:13,477 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 09:21:13,493 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:21:13,493 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 09:22:32,856 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:22:32,856 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 09:22:32,856 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:22:32,856 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 09:23:48,062 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:23:48,062 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 09:23:48,062 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:23:48,062 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 09:29:27,959 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:29:27,959 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 09:29:27,959 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:29:27,959 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 09:30:52,931 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:30:52,931 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 09:30:52,947 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:30:52,947 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 09:31:56,934 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:31:56,934 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 09:31:56,949 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:31:56,949 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 09:32:37,107 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:32:37,123 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 09:32:37,123 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:32:37,123 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 09:34:55,660 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:34:55,660 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 09:34:55,660 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:34:55,660 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 09:35:34,458 [Worker-34] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\CursoLiferay\workspace\Subastas\Subastas-portlet
+2018-02-14 09:35:34,458 [Worker-34] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -PLiferay-v6.2-(Tomcat-7) -B -Dmaven.test.skip=true -DskipTests liferay:build-service
+2018-02-14 09:36:07,226 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:36:07,242 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\src\main\resources
+2018-02-14 09:36:07,242 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:36:07,242 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\src\test\resources
+2018-02-14 09:36:08,351 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:36:08,351 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-14 09:36:08,382 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:36:08,382 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 09:46:45,142 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:46:45,142 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-14 09:46:45,158 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:46:45,158 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 09:51:36,326 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:51:36,326 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-14 09:51:36,326 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:51:36,326 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 09:55:54,774 [Worker-44] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\CursoLiferay\workspace\Subastas\Subastas-portlet
+2018-02-14 09:55:54,774 [Worker-44] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -PLiferay-v6.2-(Tomcat-7) -B -Dmaven.test.skip=true -DskipTests liferay:build-service
+2018-02-14 09:56:20,227 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:56:20,227 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\src\main\resources
+2018-02-14 09:56:20,227 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:56:20,227 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\src\test\resources
+2018-02-14 09:56:20,383 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:56:20,383 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-14 09:56:20,398 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:56:20,398 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 09:58:44,710 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:58:44,710 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-14 09:58:44,726 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 09:58:44,726 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 09:59:56,776 [Worker-45] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\CursoLiferay\workspace\Subastas\Subastas-portlet
+2018-02-14 09:59:56,776 [Worker-45] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -PLiferay-v6.2-(Tomcat-7) -B -Dmaven.test.skip=true -DskipTests liferay:build-service
+2018-02-14 10:00:22,101 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:00:22,101 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\src\main\resources
+2018-02-14 10:00:22,101 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:00:22,101 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\src\test\resources
+2018-02-14 10:00:22,195 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:00:22,195 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-14 10:00:22,211 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:00:22,211 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:09:08,732 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:09:08,748 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-14 10:09:08,748 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:09:08,748 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:10:12,500 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:10:12,500 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 10:10:12,516 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:10:12,516 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:11:06,096 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:11:06,096 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 10:11:06,096 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:11:06,096 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:11:22,737 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:11:22,753 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 10:11:22,753 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:11:22,753 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:11:46,004 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:11:46,004 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 10:11:46,004 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:11:46,004 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:11:52,051 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:11:52,051 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 10:11:52,051 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:11:52,051 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:11:53,145 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:11:53,145 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 10:11:53,145 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:11:53,145 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:14:19,198 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:14:19,198 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 10:14:19,198 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:14:19,198 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:14:27,151 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:14:27,151 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 10:14:27,151 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:14:27,151 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:15:17,419 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:15:17,434 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-14 10:15:17,434 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:15:17,434 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:15:27,372 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:15:27,372 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 10:15:27,388 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:15:27,388 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:15:31,388 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:15:31,388 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 10:15:31,388 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:15:31,388 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:15:41,466 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:15:41,466 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 10:15:41,466 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:15:41,466 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:19:37,007 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:19:37,007 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-14 10:19:37,023 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:19:37,023 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:23:24,985 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:23:24,985 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-14 10:23:25,001 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:23:25,001 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:26:01,023 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:26:01,023 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-14 10:26:01,023 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:26:01,023 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:26:22,539 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:26:22,539 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-14 10:26:22,539 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:26:22,539 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:29:15,827 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:29:15,827 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-14 10:29:15,827 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:29:15,827 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:30:29,674 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:30:29,674 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-14 10:30:29,674 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:30:29,674 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:30:38,752 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:30:38,768 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-14 10:30:38,768 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:30:38,768 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:30:50,628 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:30:50,628 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-14 10:30:50,628 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:30:50,628 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:31:02,564 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:31:02,564 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-14 10:31:02,564 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:31:02,564 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:31:11,409 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:31:11,409 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-14 10:31:11,409 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:31:11,424 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:31:44,551 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:31:44,551 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-14 10:31:44,551 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:31:44,551 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:31:51,676 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:31:51,692 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-14 10:31:51,692 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:31:51,692 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:34:57,631 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:34:57,631 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 10:34:57,647 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:34:57,647 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:35:52,131 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:35:52,131 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 10:35:52,131 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:35:52,131 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:39:01,137 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:39:01,137 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 10:39:01,152 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:39:01,152 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:40:55,430 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:40:55,430 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 10:40:55,446 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:40:55,446 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:52:33,953 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:52:33,954 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 10:52:33,956 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:52:33,956 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:54:18,350 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:54:18,359 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-14 10:54:18,379 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:54:18,379 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:54:56,147 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:54:56,153 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-14 10:54:56,161 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:54:56,161 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:55:04,393 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:55:04,399 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-14 10:55:04,407 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:55:04,407 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:56:20,880 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:56:20,908 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 10:56:21,034 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:56:21,035 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 10:57:11,182 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:57:11,240 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 10:57:11,242 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 10:57:11,242 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 11:00:05,687 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:00:05,689 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 11:00:05,691 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:00:05,691 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 11:00:12,876 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:00:12,876 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 11:00:12,877 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:00:12,878 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 11:00:46,940 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:00:46,941 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 11:00:46,943 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:00:46,943 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 11:02:13,492 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:02:13,493 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 11:02:13,495 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:02:13,497 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 11:03:09,944 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:03:09,945 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 11:03:09,949 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:03:09,949 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 11:05:46,485 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:05:46,487 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 11:05:46,490 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:05:46,490 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 11:06:04,205 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:06:04,206 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 11:06:04,208 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:06:04,208 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 11:07:15,740 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:07:15,741 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 11:07:15,743 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:07:15,743 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 11:07:37,814 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:07:37,815 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 11:07:37,817 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:07:37,817 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 11:07:56,374 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:07:56,375 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 11:07:56,379 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:07:56,379 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 11:08:11,001 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:08:11,002 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 11:08:11,005 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:08:11,006 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 11:08:41,660 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:08:41,662 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 11:08:41,664 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:08:41,665 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 11:10:17,939 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:10:17,940 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 11:10:17,942 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:10:17,943 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 11:16:20,212 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:16:20,213 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 11:16:20,216 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:16:20,216 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 11:21:57,772 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:21:57,772 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 11:21:57,774 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:21:57,774 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 11:23:09,087 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:23:09,088 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 11:23:09,090 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 11:23:09,090 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 12:33:33,601 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 12:33:33,616 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 12:33:33,619 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 12:33:33,619 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-14 12:54:01,544 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 12:54:01,551 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2018-02-14 12:54:01,650 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 12:54:01,651 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\GuestBook-v3\GuestBook-v3-portlet\src\test\resources
+2018-02-14 12:56:53,894 [Worker-61] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/portal/portal-service/6.2.5/portal-service-6.2.5-sources.jar
+2018-02-14 12:56:54,894 [Worker-61] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/portal/portal-service/6.2.5/portal-service-6.2.5-sources.jar
+2018-02-14 12:56:55,199 [Worker-61] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.liferay.portal:portal-service:6.2.5
+2018-02-14 12:56:55,767 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 12:56:55,768 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-14 12:56:55,769 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-14 12:56:55,770 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\GuestBook-v3\GuestBook-v3-portlet\src\test\resources
+2018-02-15 09:09:30,734 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-02-15 09:09:35,000 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:portal-service:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:09:35,141 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-bridges:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:09:35,281 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-taglib:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:09:35,438 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-java:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:09:38,672 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:09:38,678 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-15 09:09:38,682 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:09:38,683 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\02-CustomPortletMode-CustomViewState\src\test\resources
+2018-02-15 09:09:38,710 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+2018-02-15 09:10:05,112 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:10:05,113 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-02-15 09:10:05,122 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:10:05,122 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\04-Internacionalizacion\src\test\resources
+2018-02-15 09:10:06,409 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:10:06,409 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-15 09:10:06,412 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:10:06,412 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\05-IPC-Consumidor\src\test\resources
+2018-02-15 09:10:06,632 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:10:06,633 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-15 09:10:06,638 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:10:06,638 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\05-IPC-Emisor\src\test\resources
+2018-02-15 09:10:06,765 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:10:06,766 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\06-ServiceBuilder\06-ServiceBuilder-portlet-service\src\main\resources
+2018-02-15 09:10:06,767 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:10:06,768 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\06-ServiceBuilder\06-ServiceBuilder-portlet-service\src\test\resources
+2018-02-15 09:10:08,073 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:10:08,074 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-15 09:10:08,078 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:10:08,079 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\06-ServiceBuilder\06-ServiceBuilder-portlet\src\test\resources
+2018-02-15 09:10:08,251 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:10:08,252 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\src\main\resources
+2018-02-15 09:10:08,254 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:10:08,254 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\src\test\resources
+2018-02-15 09:10:09,536 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:10:09,537 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-15 09:10:09,545 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:10:09,546 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-15 09:10:55,821 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-02-15 09:12:55,416 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:12:55,424 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\src\main\resources
+2018-02-15 09:12:55,426 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:12:55,427 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\src\test\resources
+2018-02-15 09:12:58,034 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:12:58,035 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\src\main\resources
+2018-02-15 09:12:58,037 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:12:58,038 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\src\test\resources
+2018-02-15 09:14:50,580 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2018-02-15 09:15:01,604 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\CursoLiferay\workspace\Subastas\Subastas-portlet
+2018-02-15 09:15:01,605 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -PLiferay-v6.2-(Tomcat-7) -B liferay:build-service
+2018-02-15 09:35:34,166 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:35:34,166 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\src\main\resources
+2018-02-15 09:35:34,168 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:35:34,169 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\src\test\resources
+2018-02-15 09:39:47,509 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:Subastas-portlet-service:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\pom.xml.
+2018-02-15 09:40:14,489 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/portal/portal-service/6.2.4/portal-service-6.2.4.pom
+2018-02-15 09:40:14,779 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/portal/portal-service/6.2.4/portal-service-6.2.4.pom
+2018-02-15 09:40:15,008 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/portal/portal-parent/6.2.4/portal-parent-6.2.4.pom
+2018-02-15 09:40:15,286 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/portal/portal-parent/6.2.4/portal-parent-6.2.4.pom
+2018-02-15 09:40:15,981 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/portal/portal-service/6.2.4/portal-service-6.2.4.jar
+2018-02-15 09:40:18,167 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/portal/portal-service/6.2.4/portal-service-6.2.4.jar
+2018-02-15 09:40:23,213 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:02-CustomPortletMode-CustomViewState:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\02-CustomPortletMode-CustomViewState\pom.xml.
+2018-02-15 09:40:23,237 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:portal-service:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:40:23,261 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-bridges:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:40:23,312 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-taglib:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:40:23,318 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-java:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:40:23,619 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:Subastas-portlet:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\Subastas\Subastas-portlet\pom.xml.
+2018-02-15 09:40:24,149 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+2018-02-15 09:40:24,152 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Failure to find com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+2018-02-15 09:40:24,258 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+2018-02-15 09:40:24,262 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Failure to find com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+2018-02-15 09:40:24,270 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:portal-service:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:40:24,273 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-bridges:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:40:24,277 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-taglib:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:40:24,281 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-java:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:40:24,321 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+2018-02-15 09:40:26,853 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:40:26,854 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\src\main\resources
+2018-02-15 09:40:26,856 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:40:26,857 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\src\test\resources
+2018-02-15 09:40:29,259 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:portal-service:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:40:29,266 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-bridges:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:40:29,270 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-taglib:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:40:29,274 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-java:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:40:29,321 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:40:29,620 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-15 09:40:29,649 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:40:29,657 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\02-CustomPortletMode-CustomViewState\src\test\resources
+2018-02-15 09:40:29,665 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+2018-02-15 09:40:39,610 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:40:39,610 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\src\main\resources
+2018-02-15 09:40:39,613 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:40:39,613 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\src\test\resources
+2018-02-15 09:40:52,515 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/maven/plugins/liferay-maven-plugin/6.2.4/liferay-maven-plugin-6.2.4.jar
+2018-02-15 09:40:53,171 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:Subastas-portlet:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\Subastas\Subastas-portlet\pom.xml.
+2018-02-15 09:41:03,401 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/portal/util-bridges/6.2.4/util-bridges-6.2.4.pom
+2018-02-15 09:41:03,783 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/portal/util-taglib/6.2.4/util-taglib-6.2.4.pom
+2018-02-15 09:41:03,924 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/portal/util-taglib/6.2.4/util-taglib-6.2.4.pom
+2018-02-15 09:41:04,057 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/portal/util-java/6.2.4/util-java-6.2.4.pom
+2018-02-15 09:41:04,217 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/portal/util-java/6.2.4/util-java-6.2.4.pom
+2018-02-15 09:41:04,906 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:02-CustomPortletMode-CustomViewState:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\02-CustomPortletMode-CustomViewState\pom.xml.
+2018-02-15 09:41:04,943 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:portal-service:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:41:04,961 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-bridges:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:41:04,965 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-taglib:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:41:04,969 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-java:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:41:05,286 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+2018-02-15 09:41:05,287 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Failure to find com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+2018-02-15 09:41:05,289 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+2018-02-15 09:41:05,290 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Failure to find com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+2018-02-15 09:41:05,291 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:portal-service:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:41:05,292 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-bridges:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:41:05,293 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-taglib:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:41:05,294 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-java:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:41:05,305 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+2018-02-15 09:41:15,553 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/maven/plugins/liferay-maven-plugin/6.2.4/liferay-maven-plugin-6.2.4.pom
+2018-02-15 09:41:15,591 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/maven/plugins/liferay-maven-plugin/6.2.4/liferay-maven-plugin-6.2.4.pom
+2018-02-15 09:41:15,628 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/maven/plugins/6.2.4/plugins-6.2.4.pom
+2018-02-15 09:41:15,697 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/maven/plugins/6.2.4/plugins-6.2.4.pom
+2018-02-15 09:41:15,782 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/maven/maven-support/6.2.4/maven-support-6.2.4.pom
+2018-02-15 09:41:15,842 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/maven/maven-support/6.2.4/maven-support-6.2.4.pom
+2018-02-15 09:41:15,862 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:6.2.4: Plugin com.liferay.maven.plugins:liferay-maven-plugin:6.2.4 or one of its dependencies could not be resolved: Failure to transfer com.liferay.maven.plugins:liferay-maven-plugin:jar:6.2.4 from https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced. Original error: Could not transfer artifact com.liferay.maven.plugins:liferay-maven-plugin:jar:6.2.4 from/to central (https://repo.maven.apache.org/maven2): connect timed out
+2018-02-15 09:41:15,871 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:6.2.4: Plugin com.liferay.maven.plugins:liferay-maven-plugin:6.2.4 or one of its dependencies could not be resolved: Failure to transfer com.liferay.maven.plugins:liferay-maven-plugin:jar:6.2.4 from https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced. Original error: Could not transfer artifact com.liferay.maven.plugins:liferay-maven-plugin:jar:6.2.4 from/to central (https://repo.maven.apache.org/maven2): connect timed out
+2018-02-15 09:41:16,126 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/portal/util-bridges/6.2.4/util-bridges-6.2.4.jar
+2018-02-15 09:41:16,341 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/portal/util-bridges/6.2.4/util-bridges-6.2.4.jar
+2018-02-15 09:41:16,584 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/portal/util-taglib/6.2.4/util-taglib-6.2.4.jar
+2018-02-15 09:41:16,900 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/portal/util-taglib/6.2.4/util-taglib-6.2.4.jar
+2018-02-15 09:41:17,032 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/liferay/portal/util-java/6.2.4/util-java-6.2.4.jar
+2018-02-15 09:41:17,371 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/liferay/portal/util-java/6.2.4/util-java-6.2.4.jar
+2018-02-15 09:41:18,258 [Worker-29] ERROR o.e.m.jdt.internal.BuildPathManager - Could not set the project description for 'Subastas-portlet' because the project description file (.project) is out of sync with the file system.
+org.eclipse.jdt.core.JavaModelException: Could not set the project description for 'Subastas-portlet' because the project description file (.project) is out of sync with the file system.
+	at org.eclipse.jdt.internal.core.ProjectReferenceChange.updateProjectReferencesIfNecessary(ProjectReferenceChange.java:114) ~[org.eclipse.jdt.core_3.12.3.v20170228-1205.jar:na]
+	at org.eclipse.jdt.internal.core.ChangeClasspathOperation.classpathChanged(ChangeClasspathOperation.java:59) ~[org.eclipse.jdt.core_3.12.3.v20170228-1205.jar:na]
+	at org.eclipse.jdt.internal.core.SetContainerOperation.executeOperation(SetContainerOperation.java:110) ~[org.eclipse.jdt.core_3.12.3.v20170228-1205.jar:na]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:724) ~[org.eclipse.jdt.core_3.12.3.v20170228-1205.jar:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240) ~[org.eclipse.core.resources_3.11.1.v20161107-2032.jar:na]
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267) ~[org.eclipse.core.resources_3.11.1.v20161107-2032.jar:na]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:795) ~[org.eclipse.jdt.core_3.12.3.v20170228-1205.jar:na]
+	at org.eclipse.jdt.core.JavaCore.setClasspathContainer(JavaCore.java:5591) ~[org.eclipse.jdt.core_3.12.3.v20170228-1205.jar:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.updateClasspath(BuildPathManager.java:193) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.BuildPathManager.mavenProjectChanged(BuildPathManager.java:180) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:300) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:735) [org.eclipse.core.resources_3.11.1.v20161107-2032.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.11.1.v20161107-2032.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.11.1.v20161107-2032.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:301) [org.eclipse.core.resources_3.11.1.v20161107-2032.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:304) [org.eclipse.core.resources_3.11.1.v20161107-2032.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:360) [org.eclipse.core.resources_3.11.1.v20161107-2032.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:383) [org.eclipse.core.resources_3.11.1.v20161107-2032.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144) [org.eclipse.core.resources_3.11.1.v20161107-2032.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235) [org.eclipse.core.resources_3.11.1.v20161107-2032.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2018-02-15 09:41:19,674 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:portal-service:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:41:19,677 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-bridges:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:41:19,681 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-taglib:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:41:19,721 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-java:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:41:19,748 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:41:19,749 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-15 09:41:19,750 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:41:19,751 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\02-CustomPortletMode-CustomViewState\src\test\resources
+2018-02-15 09:41:19,757 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+2018-02-15 09:41:55,133 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:Subastas-portlet-service:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\pom.xml.
+2018-02-15 09:43:45,841 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.example.plugins:Subastas:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\Subastas\pom.xml.
+2018-02-15 09:43:46,874 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:Subastas-portlet:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\Subastas\Subastas-portlet\pom.xml.
+2018-02-15 09:43:46,885 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:portal-service:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:43:46,900 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-bridges:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:43:46,904 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-taglib:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:43:46,907 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-java:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:43:47,037 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:Subastas-portlet-service:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\pom.xml.
+2018-02-15 09:43:47,335 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+2018-02-15 09:43:48,562 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Subastas-portlet-service/src/main/java
+2018-02-15 09:43:48,563 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Subastas-portlet-service/src/test/java
+2018-02-15 09:43:49,023 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Subastas-portlet/src/main/java
+2018-02-15 09:43:49,024 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Subastas-portlet/src/main/resources
+2018-02-15 09:43:49,052 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Subastas-portlet/src/test/java
+2018-02-15 09:43:51,907 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+2018-02-15 09:43:51,909 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Failure to find com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+2018-02-15 09:43:51,911 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+2018-02-15 09:43:51,912 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Failure to find com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+2018-02-15 09:43:51,918 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:portal-service:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:43:51,920 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-bridges:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:43:51,922 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-taglib:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:43:51,923 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-java:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:43:51,949 [Worker-35] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 3 project(s) in 6 sec
+2018-02-15 09:43:56,758 [Worker-31] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/alu01/AppData/Local/Temp/RemoteBundleDiscoveryStrategy442754448744656992.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_1346720438977125188.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-egit.xml
+2018-02-15 09:43:56,759 [Worker-31] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2018-02-15 09:43:56,761 [Worker-31] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/alu01/AppData/Local/Temp/RemoteBundleDiscoveryStrategy442754448744656992.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_1346720438977125188.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive.xml
+2018-02-15 09:43:56,761 [Worker-31] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2018-02-15 09:43:57,101 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:portal-service:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:43:57,107 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:43:57,107 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\src\main\resources
+2018-02-15 09:43:57,257 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:43:57,258 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\src\test\resources
+2018-02-15 09:43:57,419 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:portal-service:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:43:57,423 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-bridges:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:43:57,429 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-taglib:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:43:57,432 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-java:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:43:57,561 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:43:57,562 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-15 09:43:57,915 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:43:57,916 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-15 09:43:57,916 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Subastas-portlet
+2018-02-15 09:43:57,957 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Subastas-portlet
+2018-02-15 09:43:57,963 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+2018-02-15 09:43:57,965 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} has not been downloaded from it before.
+2018-02-15 09:43:57,966 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+2018-02-15 09:43:57,968 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version}: Plugin com.liferay.maven.plugins:liferay-maven-plugin:${liferay.maven.plugin.version} or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} has not been downloaded from it before.
+2018-02-15 09:43:57,983 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:43:57,988 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.maven.plugins:liferay-maven-plugin:jar:${liferay.maven.plugin.version} is missing, no dependency information available
+2018-02-15 09:44:40,049 [Worker-42] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-02-15 09:44:40,265 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:Subastas-portlet:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\Subastas\Subastas-portlet\pom.xml.
+2018-02-15 09:44:41,758 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:portal-service:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:44:41,761 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-bridges:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:44:41,765 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-taglib:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:44:41,768 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.liferay.portal:util-java:jar:${liferay.version} is missing, no dependency information available
+2018-02-15 09:44:42,066 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Subastas-portlet/src/main/java
+2018-02-15 09:44:42,066 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Subastas-portlet/src/main/resources
+2018-02-15 09:44:42,067 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Subastas-portlet/src/test/java
+2018-02-15 09:44:42,845 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Subastas-portlet
+2018-02-15 09:44:42,901 [Worker-42] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2018-02-15 09:44:47,529 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-02-15 09:44:47,628 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:Subastas-portlet-service:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\pom.xml.
+2018-02-15 09:44:47,701 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:Subastas-portlet:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\Subastas\Subastas-portlet\pom.xml.
+2018-02-15 09:44:48,640 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Subastas-portlet-service/src/main/java
+2018-02-15 09:44:48,640 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Subastas-portlet-service/src/test/java
+2018-02-15 09:44:48,987 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-02-15 09:44:52,855 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.example.plugins:Subastas:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\Subastas\pom.xml.
+2018-02-15 09:44:54,011 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:Subastas-portlet-service:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\pom.xml.
+2018-02-15 09:44:54,060 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example.plugins:Subastas-portlet:1.0.0-SNAPSHOT @ C:\CursoLiferay\workspace\Subastas\Subastas-portlet\pom.xml.
+2018-02-15 09:45:02,507 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:45:02,507 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\src\main\resources
+2018-02-15 09:45:02,509 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:45:02,509 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet-service\src\test\resources
+2018-02-15 09:45:05,577 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:45:05,579 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2018-02-15 09:45:05,660 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:45:05,661 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-15 09:50:11,747 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:50:11,785 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-15 09:50:11,786 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:50:11,786 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\CursoLiferay\workspace\Subastas\Subastas-portlet\src\test\resources
+2018-02-15 09:50:12,827 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-15 09:50:12,827 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-15 09:50:12,829 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.

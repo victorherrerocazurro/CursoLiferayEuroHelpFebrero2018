@@ -1,0 +1,28 @@
+package com.subastas.portlets;
+
+import java.io.IOException;
+
+import javax.portlet.ActionRequest;
+import javax.portlet.ActionResponse;
+import javax.portlet.PortletException;
+
+import com.liferay.counter.service.CounterLocalServiceUtil;
+import com.liferay.util.bridges.mvc.MVCPortlet;
+import com.subastas.model.Subasta;
+import com.subastas.service.SubastaLocalServiceUtil;
+
+/**
+ * Portlet implementation class SubastasPortlet
+ */
+public class SubastasPortlet extends MVCPortlet {
+
+	public void altaSubasta(ActionRequest actionRequest, ActionResponse actionResponse)
+			throws IOException, PortletException {
+
+		long subastaId = CounterLocalServiceUtil.increment();
+		Subasta subasta = SubastaLocalServiceUtil.createSubasta(subastaId );
+		SubastaLocalServiceUtil.addSubasta(subasta );
+		
+	}
+
+}

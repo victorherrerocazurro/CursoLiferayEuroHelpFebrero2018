@@ -1,0 +1,22 @@
+package com.subastas.portlets;
+
+import java.io.IOException;
+
+import javax.portlet.ActionRequest;
+import javax.portlet.ActionResponse;
+import javax.portlet.PortletException;
+
+import com.liferay.util.bridges.mvc.MVCPortlet;
+
+/**
+ * Portlet implementation class PujasPortlet
+ */
+public class PujasPortlet extends MVCPortlet {
+ 
+
+	public void pujar(ActionRequest actionRequest, ActionResponse actionResponse)
+			throws Exception {
+
+	}
+	
+}

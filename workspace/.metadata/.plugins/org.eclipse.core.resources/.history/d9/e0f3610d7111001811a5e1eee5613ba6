@@ -1,0 +1,29 @@
+<%@ taglib uri="http://java.sun.com/portlet_2_0" prefix="portlet" %>
+<%@ taglib uri="http://liferay.com/tld/aui" prefix="aui" %>
+<%@ taglib uri="http://liferay.com/tld/ui" prefix="liferay-ui" %>
+<%@ taglib uri="http://liferay.com/tld/theme" prefix="theme" %>
+<%@ taglib uri="http://liferay.com/tld/security" prefix="liferay-security" %>
+
+<portlet:defineObjects />
+<theme:defineObjects />
+
+
+<portlet:actionURL name="altaSubasta" var="altaSubastaUrl"/>
+
+<aui:form action="<%=altaSubastaUrl%>" name="<portlet:namespace />fm">
+	<aui:fieldset>
+		<aui:layout>
+			<aui:column >
+				<aui:input name="nombre" />
+				<aui:input name="descripcion" />
+			</aui:column>
+			<aui:column>
+				<aui:input name="precioSalida" type="number"/>
+				<liferay-ui:input-date formName="fechaFin" />
+			</aui:column>
+		</aui:layout>
+	</aui:fieldset>
+	<aui:button-row>
+		<aui:button type="submit"></aui:button>
+	</aui:button-row>
+</aui:form>

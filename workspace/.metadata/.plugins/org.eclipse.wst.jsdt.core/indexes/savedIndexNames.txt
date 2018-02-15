@@ -1,16 +1,12 @@
 INDEX VERSION 1.3+C:\CursoLiferay\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-3882456486.index
-2539442823.index
-1785639225.index
-493814065.index
-1912314889.index
-14874742.index
-1145136293.index
-1644062621.index
-505154550.index
-1772684872.index
+3152459227.index
 2549457759.index
 260409128.index
-3152459227.index
-3032935499.index
-3032935499.index
+1644062621.index
+1912314889.index
+1785639225.index
+334955790.index
+1772684872.index
+1145136293.index
+14874742.index
+493814065.index

@@ -1,0 +1,54 @@
+package com.subastas.portlets;
+
+import java.io.IOException;
+import java.text.SimpleDateFormat;
+
+import javax.portlet.ActionRequest;
+import javax.portlet.ActionResponse;
+import javax.portlet.PortletException;
+
+import com.liferay.counter.service.CounterLocalServiceUtil;
+import com.liferay.docs.guestbook.model.Entry;
+import com.liferay.portal.kernel.util.ParamUtil;
+import com.liferay.portal.model.User;
+import com.liferay.portal.service.ServiceContext;
+import com.liferay.portal.service.ServiceContextFactory;
+import com.liferay.portal.service.UserLocalServiceUtil;
+import com.liferay.util.bridges.mvc.MVCPortlet;
+import com.subastas.model.Subasta;
+import com.subastas.service.SubastaLocalServiceUtil;
+
+/**
+ * Portlet implementation class SubastasPortlet
+ */
+public class SubastasPortlet extends MVCPortlet {
+
+	public void altaSubasta(ActionRequest actionRequest, ActionResponse actionResponse)
+			throws IOException, PortletException {
+
+		ServiceContext serviceContext = ServiceContextFactory.getInstance(Subasta.class.getName(), actionRequest);
+		
+		long subastaId = CounterLocalServiceUtil.increment();
+		Subasta subasta = SubastaLocalServiceUtil.createSubasta(subastaId);
+		
+		User user = UserLocalServiceUtil.fetchUser(serviceContext.getUserId());
+		
+		subasta.setUuid(serviceContext.getUuid());
+		subasta.setUserId(user.getUserId());
+		subasta.setGroupId(serviceContext.getScopeGroupId());
+		subasta.setCompanyId(user.getCompanyId());
+		subasta.setUserName(user.getFullName());
+		subasta.setCreateDate(serviceContext.getCreateDate());
+		subasta.setModifiedDate(serviceContext.getModifiedDate());
+		subasta.setDescripcion(ParamUtil.getString(actionRequest, "descripcion"));
+		subasta.setNombre(ParamUtil.getString(actionRequest, "nombre"));
+		subasta.setPrecioSalida(ParamUtil.getDouble(actionRequest, "precioSalida"));
+		subasta.setFechaFin(ParamUtil.getDate(actionRequest, "fechaFin", new SimpleDateFormat("dd/MM/yyyy")));
+		subasta.setPujaMaxima(null);
+		
+		
+		SubastaLocalServiceUtil.addSubasta(subasta);
+		
+	}
+
+}
